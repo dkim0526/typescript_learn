@@ -37,3 +37,9 @@ var Point3D = /** @class */ (function (_super) {
     };
     return Point3D;
 }(Point));
+/**
+ * Accessible on | Public | Protected | Private
+ * class         | yes    | yes       | yes
+ * class children| yes    | yes       | no
+ * class intances| yes    | no        | no
+ */ 
